@@ -17,15 +17,18 @@ func LoadEnvFromJSON(filename string) error {
 	}
 	defer file.Close()
 
-	var envVars model.Dbconfig
+	var machine model.Machine
 	// 解析 JSON
 	decoder := json.NewDecoder(file)
-	if err := decoder.Decode(&envVars); err != nil {
+	if err := decoder.Decode(&machine); err != nil {
 		return fmt.Errorf("❌ 解析 JSON 失敗: %v", err)
 	}
 
-	constVar.DBConst = envVars
-	fmt.Println("reading config data successfully from file ...")
+	if machine.DB.Status{
+		constVar.DBConst = machine.DB
+		fmt.Println("reading config data successfully from file ...")
+	}
+	
 
 	return nil
 }

@@ -12,7 +12,7 @@ import (
 func InitDB() {
 	// 環境變數設定（或直接寫死在程式中）
 	dbconst := constVar.DBConst
-	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=Local",dbconst.DBuser,dbconst.DBpassword,dbconst.DBhost,dbconst.DBport,dbconst.DBname)
+	dsn := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=utf8mb4&parseTime=True&loc=Local",dbconst.DBUser,dbconst.DBPassword,dbconst.DBHost,dbconst.DBPort,dbconst.DBName)
 
 	fmt.Println(dsn)
 	// 連接資料庫

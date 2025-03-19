@@ -1,7 +1,10 @@
 {
-    "DBuser":"user",
-    "DBpassword":"password",
-    "DBhost":"localhost",
-    "DBport":"3306",
-    "DBname":"mydb"
+    "db": {
+        "status": true,
+        "db_user": "user",
+        "db_password": "password",
+        "db_host": "localhost",
+        "db_port": "3306",
+        "db_name": "mydb"
+    }
 }
