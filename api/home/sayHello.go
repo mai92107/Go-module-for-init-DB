@@ -1,7 +1,7 @@
 package home
 
 import (
-	"batchLog/api/response"
+	response "batchLog/core/commonResponse"
 	"time"
 
 	"github.com/gin-gonic/gin"
