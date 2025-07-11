@@ -1,0 +1,16 @@
+[2025-07-11 10:00:00] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:00:00] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:00:22] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:00:22] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:08:59] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:08:59] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:17:27] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:17:27] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:32:40] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:32:40] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:33:13] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:33:13] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:41:23] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:41:23] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m
+[2025-07-11 10:42:50] [DEBUG] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initMachine.go:48] [36m✅ 資料庫連接成功[0m
+[2025-07-11 10:42:50] [INFO] [/Users/guanlin/Desktop/gps_project/Go-module-for-init-DB/core/init/initHttp.go:14] [32mhttp server 已啟動, 使用 PORT: 8000[0m

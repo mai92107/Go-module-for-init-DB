@@ -1,7 +1,9 @@
 package main
 
-import initData "batchLog/init"
+import (
+	coreInit "batchLog/core/init"
+)
 
 func main() {
-	initData.InitAll()
+	coreInit.InitAll()
 }
